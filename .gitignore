@@ -1,0 +1,14 @@
+node_modules
+.env
+
+Hardhat files
+cache
+artifacts
+
+ypeChain files
+typechain
+typechain-types
+
+olidity-coverage files
+coverage
+coverage.json
